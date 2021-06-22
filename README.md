@@ -5,5 +5,4 @@ I am currently working on the basics and Website where you can track projects ve
 
 v0.0-Ongoing
 
-You can contact me by joining this projects official discord server:
-https://discord.gg/ZHtzH3zyZQ
+You can contact me by joining this projects official discord server:https://discord.gg/ZHtzH3zyZQ
